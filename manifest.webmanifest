@@ -1,0 +1,46 @@
+{
+  "name": "착한이웃교회",
+  "short_name": "착한이웃",
+  "description": "착한이웃교회 · 말씀 「주일 이후」 · 착한이웃TV · 굿피플툰",
+  "lang": "ko",
+  "id": "/",
+  "start_url": "/?app=1",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1C1731",
+  "theme_color": "#1C1731",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "말씀 「주일 이후」",
+      "url": "/goodneighbor-after/"
+    },
+    {
+      "name": "예배 안내 · 오시는 길",
+      "url": "/worship.html"
+    },
+    {
+      "name": "굿피플툰",
+      "url": "/goodpeopletoon/"
+    }
+  ]
+}
